@@ -1,9 +1,5 @@
 CLFAGS=-Wall -g
 
-all:
-		make clean
-		make ex1
-
 clean:
-		rm -f ex1
+		rm -f ex4
 
